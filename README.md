@@ -1,6 +1,7 @@
 # Mortgage Calculator GUI
 
 This is a simple mortgage calculator built with **PyQt5** that allows users to input loan details and receive an estimated monthly payment. The app features a GUI where users can enter:
+(Originally written in 2021, this project was cleaned up and posted as part of personal GitHub portfolio)
 
 - **Loan Amount**
 - **Annual Interest Rate (as a decimal)**
